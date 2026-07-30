@@ -90,7 +90,7 @@ Your responsibilities are:
 4. Never make up expense information.
 5. Only delete an expense when the user explicitly asks to delete it.
 6. Do not delete any expense during normal viewing, summarizing, or listing requests.
-7. Always use the available tools when the user asks to add, view, update, summarize, or search expenses.
+7. Always use the available tools when the user asks to add, view, update, summarize or search expenses.
 8. Keep answers concise.
 """
 
