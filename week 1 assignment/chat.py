@@ -148,6 +148,6 @@ while True:
         print("=" * 70)
 
     else:
-        print("\nToken usage not returned by this model/API")
+        print("\nToken usage not returned by model/API")
 
     turn += 1
